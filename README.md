@@ -1,8 +1,7 @@
-# tinawina
-Hi Guys!
+Use this website to ask out girls! :3
 
-I made this little webpage after a friend showed me something similar my girlfriend had liked on instagram. 
+anyways open the files and use the index.html on browser (not deployed because its a private project and im not asking out the whole internet duh)
 
-Feel free to use this code for your site or however y'all see fit! 
+going to add a contact section form after the yes in the near future
 
-URL: olie.wu.github.io/tinawina/
+what other features should i add?
