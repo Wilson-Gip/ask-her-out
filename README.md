@@ -1,6 +1,7 @@
 Intro:
 Use this website to ask out girls! (lmao they cant say no :3)
 ps u shud change da color to her favorite color winky face
+use at your own discretion (no refunds for rejection)
 
 SETUP:
 use index.html on a browser or visit https://uracutiepatootie.vercel.app/
