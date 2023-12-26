@@ -3,9 +3,9 @@ Use this website to ask out girls! (lmao they cant say no :3)
 ps u shud change da color to her favorite color winky face
 
 SETUP:
-anyways open the files and use the index.html on browser (not deployed because its a private project and im not asking out the whole internet duh)
+use index.html on a browser or visit https://uracutiepatootie.vercel.app/
 
-TODO:
-going to add a contact section form after the yes in the near future or a notification for the yes
+Future idea implementations:
+message or notification to owner of website (out of scope of this small project/need to use api and other tools)
 
 what other features should i add?
